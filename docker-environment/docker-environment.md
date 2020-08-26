@@ -1,0 +1,4 @@
+- Environment Variables
+    - docker run -e APP_COLOR=blue simple-app
+    - inspect Environment Variable
+        - docker inspect ${containerId}
