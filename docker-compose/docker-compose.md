@@ -1,0 +1,4 @@
+- Docker compose
+    - put together the different services and options specific
+    - build
+    - version 
